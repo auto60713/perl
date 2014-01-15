@@ -1,0 +1,9 @@
+step1  基本語法,如何讀excel檔
+
+step2  使用者輸入,寫excle並另存新檔
+
+step3  基本報表處理
+
+step4  sub副程式應用
+
+step5  字串處理
